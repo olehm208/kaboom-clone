@@ -1,0 +1,1518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>1889216269aabe1a6adf97d8eaa5ca8f</guid>
+    <fileName>Assets/KillOnTouch.cs</fileName>
+    <timeStamp>2026-09-18T13:12:21.2737029+03:00</timeStamp>
+    <typeFullName>
+      <string>KillOnTouch</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3c754ff0143cb9d859f7293bd465c609</guid>
+    <fileName>Assets/UIController.cs</fileName>
+    <timeStamp>2026-09-18T14:22:13.5264178+03:00</timeStamp>
+    <typeFullName>
+      <string>UIController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>54640e03c81c207aa8e2f087572464c9</guid>
+    <fileName>Assets/Component/AreaSpawner.cs</fileName>
+    <timeStamp>2026-09-18T14:25:25.2802036+03:00</timeStamp>
+    <typeFullName>
+      <string>AreaSpawner</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>395e2457820646e19b54a44727f68912</guid>
+    <fileName>Assets/Component/FallingItem.cs</fileName>
+    <timeStamp>2026-09-18T13:08:21.3390213+03:00</timeStamp>
+    <typeFullName>
+      <string>ItemType</string>
+      <string>FallingItem</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>baf1b51267abd31958129f47137c922b</guid>
+    <fileName>Assets/Component/GameManager.cs</fileName>
+    <timeStamp>2026-09-18T14:47:19.9024213+03:00</timeStamp>
+    <typeFullName>
+      <string>GameManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>739db0ca9caa23858af10e512332ac00</guid>
+    <fileName>Assets/Component/PlatformDetection.cs</fileName>
+    <timeStamp>2026-09-18T13:11:40.0155177+03:00</timeStamp>
+    <typeFullName>
+      <string>PlatformDetection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3a782118221fd4a018cfc7b739c5b53d</guid>
+    <fileName>Assets/Component/Player.cs</fileName>
+    <timeStamp>2026-09-18T14:25:37.2271624+03:00</timeStamp>
+    <typeFullName>
+      <string>Player</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7ee766c97a12dc94f9b3263330c80de9</guid>
+    <fileName>Assets/2D Space Kit/Scripts/AimBeam.cs</fileName>
+    <timeStamp>2026-09-18T14:37:18.7792802+03:00</timeStamp>
+    <typeFullName>
+      <string>AimBeam</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8cc1475bbdc741a49930291fef0c6aeb</guid>
+    <fileName>Assets/2D Space Kit/Scripts/Crosshair.cs</fileName>
+    <timeStamp>2026-09-18T14:37:18.7802882+03:00</timeStamp>
+    <typeFullName>
+      <string>Crosshair</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b555a5ddb5174e544a54f1cccbdb0be6</guid>
+    <fileName>Assets/2D Space Kit/Scripts/CustomPointer.cs</fileName>
+    <timeStamp>2026-09-18T14:37:18.7952901+03:00</timeStamp>
+    <typeFullName>
+      <string>CustomPointer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dd1b717e3e89ca541a5ccaedc5c46cc9</guid>
+    <fileName>Assets/2D Space Kit/Scripts/ExampleShipControl.cs</fileName>
+    <timeStamp>2026-09-18T14:37:22.360397+03:00</timeStamp>
+    <typeFullName>
+      <string>ExampleShipControl</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>75795b269014860408c543a40cba331d</guid>
+    <fileName>Assets/2D Space Kit/Scripts/PSDestroy.cs</fileName>
+    <timeStamp>2026-09-18T14:37:22.3605504+03:00</timeStamp>
+    <typeFullName>
+      <string>PSDestroy</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ef8c86aea6dea874296d83b9d707b777</guid>
+    <fileName>Assets/2D Space Kit/Scripts/ParallaxLayer.cs</fileName>
+    <timeStamp>2026-09-18T14:37:18.7967315+03:00</timeStamp>
+    <typeFullName>
+      <string>ParallaxLayer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>989b509af42608b4b8aa67ddd2e8f1db</guid>
+    <fileName>Assets/2D Space Kit/Scripts/PlayerControlledTurret.cs</fileName>
+    <timeStamp>2026-09-18T14:37:22.3601853+03:00</timeStamp>
+    <typeFullName>
+      <string>PlayerControlledTurret</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>304f3693f902a6540be5ae2c4a6f0957</guid>
+    <fileName>Assets/2D Space Kit/Scripts/Projectile.cs</fileName>
+    <timeStamp>2026-09-18T14:37:18.7976883+03:00</timeStamp>
+    <typeFullName>
+      <string>Projectile</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>57325101ec0f256438af8aed6522c0e1</guid>
+    <fileName>Assets/2D Space Kit/Scripts/ShipCamera.cs</fileName>
+    <timeStamp>2026-09-18T14:37:18.798595+03:00</timeStamp>
+    <typeFullName>
+      <string>ShipCamera</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3766ef66f3e2cc04c84812bd678acc2d</guid>
+    <fileName>Assets/Cainos/Pixel Art Platformer - Village Props/Script/BoundingPlatform.cs</fileName>
+    <timeStamp>2026-09-18T13:44:14.915203+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.PixelArtPlatformer_VillageProps.BoundingPlatform</string>
+      <string>Cainos.PixelArtPlatformer_VillageProps.BoundingPlatform+State</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>564a40ab997e88549a733c999c980526</guid>
+    <fileName>Assets/Cainos/Pixel Art Platformer - Village Props/Script/Chest.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.2310206+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.PixelArtPlatformer_VillageProps.Chest</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>decb355dc5cd8c549ac690cc13f9386e</guid>
+    <fileName>Assets/Cainos/Pixel Art Platformer - Village Props/Script/Elevator.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.2322083+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.PixelArtPlatformer_VillageProps.Elevator</string>
+      <string>Cainos.PixelArtPlatformer_VillageProps.Elevator+State</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>62f13fc5f387cd24f9b520c8160d7afd</guid>
+    <fileName>Assets/Cainos/Pixel Art Platformer - Village Props/Script/MovingPlatform.cs</fileName>
+    <timeStamp>2026-09-18T13:44:14.9150531+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.PixelArtPlatformer_VillageProps.MovingPlatform</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>32d5fc45e6742388db3a116f2fa3eea9</guid>
+    <fileName>Assets/Plugin/UnitySweeper/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2024-06-01T06:39:42+03:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetCollector</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9ca46e4bc0265fea4a43685dc4db45e3</guid>
+    <fileName>Assets/Plugin/UnitySweeper/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2024-06-01T06:39:42+03:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d480268bf48f28dbf88d54956f0b062c</guid>
+    <fileName>Assets/Plugin/UnitySweeper/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2024-06-01T06:39:42+03:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ClassReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>798e8ea65052200caaa12f7b2ebe2d07</guid>
+    <fileName>Assets/Plugin/UnitySweeper/Editor/CollectionData.cs</fileName>
+    <timeStamp>2024-06-01T06:39:42+03:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.CollectionData</string>
+      <string>UnitySweeper.TypeDate</string>
+      <string>UnitySweeper.IReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f39135d5d9538ac88ab4aaba4c820cc4</guid>
+    <fileName>Assets/Plugin/UnitySweeper/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2024-06-01T06:39:42+03:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>28a5f9981f296544896685dbfbff390f</guid>
+    <fileName>Assets/Plugin/UnitySweeper/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2024-06-01T06:39:42+03:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>07787013bf9ca4ece8f4213dd2a0b87e</guid>
+    <fileName>Assets/UnityLab/Scripts/Combat/DamageOnCollision.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.859223+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.DamageOnCollision</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6291c77a0e0d7491eb0ab6f0a632d6c2</guid>
+    <fileName>Assets/UnityLab/Scripts/Combat/DestroyOnImpact.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.859266+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.DestroyOnImpact</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e374fda6b09e94e4e9813456f2585522</guid>
+    <fileName>Assets/UnityLab/Scripts/Combat/Health.cs</fileName>
+    <timeStamp>2026-09-18T12:33:59.4154577+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.Health</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b2d29eb68019040deba7d5390cd2720c</guid>
+    <fileName>Assets/UnityLab/Scripts/Combat/Obstacle.cs</fileName>
+    <timeStamp>2026-09-18T12:38:27.719228+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.Obstacle</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8d45dcb6782544768b93940034956fc7</guid>
+    <fileName>Assets/UnityLab/Scripts/Combat/Shooter2D.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.859266+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.Shooter2D</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5c9b8f2184d5945359fee2d66564d81b</guid>
+    <fileName>Assets/UnityLab/Scripts/Common/ForwardAxis2D.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.859266+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.ForwardAxis2D</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2c12da19d9a4f4b79a533c44db3dc099</guid>
+    <fileName>Assets/UnityLab/Scripts/Common/IInteractable.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8594996+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.IInteractable</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b157c6649f658406b893f8bca8ffb4ee</guid>
+    <fileName>Assets/UnityLab/Scripts/Common/IPointsSource.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8594996+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.IPointsSource</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>22979dbf37a2e46f59b4c93aa4d9c18e</guid>
+    <fileName>Assets/UnityLab/Scripts/Common/ISliceTarget.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8594996+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.ISliceTarget</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>44bc846febb864defb5b478610d00638</guid>
+    <fileName>Assets/UnityLab/Scripts/Common/ISpawnSource.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8594996+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.ISpawnSource</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c868ef1bda59d4f4197d5c84daa2c7d0</guid>
+    <fileName>Assets/UnityLab/Scripts/Common/InputScheme.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8594996+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.InputScheme</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b98a8bfca9e5f4c5e9d59e0d2baa95bd</guid>
+    <fileName>Assets/UnityLab/Scripts/Common/LabInput.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8594996+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.LabInput</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4ee74382af4ed48f48dc1e0ec574402c</guid>
+    <fileName>Assets/UnityLab/Scripts/Common/ObstacleHit.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8594996+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.ObstacleHit</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8265c506321804321859fe99868ef402</guid>
+    <fileName>Assets/UnityLab/Scripts/Common/ObstacleResponse.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8594996+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.ObstacleResponse</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0850d56e3be184f4c9b6d52f46f8d596</guid>
+    <fileName>Assets/UnityLab/Scripts/Common/ScoreSide.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8594996+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.ScoreSide</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9550e65d1ba5641f3a76a643165baacd</guid>
+    <fileName>Assets/UnityLab/Scripts/Game/GameController.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8594996+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.GameController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dfbd5bf6a5c674c01ae6a9b2390478a9</guid>
+    <fileName>Assets/UnityLab/Scripts/Game/GameTimer.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8599608+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.GameTimer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>84c499d28f11944bdbfb1b86b486a4a5</guid>
+    <fileName>Assets/UnityLab/Scripts/Game/SceneLoader.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8599608+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.SceneLoader</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>25118d7eaea4146a0a2bcb6cbcab9734</guid>
+    <fileName>Assets/UnityLab/Scripts/Game/ScoreManager.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8599608+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.ScoreManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f3080ee47633f4970b36ce7c0aa41312</guid>
+    <fileName>Assets/UnityLab/Scripts/Game/ScoreZone2D.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8599608+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.ScoreZone2D</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9a5c46d863d44476580c258d671b1232</guid>
+    <fileName>Assets/UnityLab/Scripts/Game/TargetCounter.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8599608+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.TargetCounter</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>57ddb0e0e2fc447b895180a4d3ffd708</guid>
+    <fileName>Assets/UnityLab/Scripts/Game/TwoPlayerScore.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8599608+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.TwoPlayerScore</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>07392d6779d644824b11c6fcb4ddfa50</guid>
+    <fileName>Assets/UnityLab/Scripts/Game/WinTrigger2D.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8599608+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.WinTrigger2D</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d7471e55d881242a2b286f2dc8b24295</guid>
+    <fileName>Assets/UnityLab/Scripts/Grid/GridBuilder2D.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8599608+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.GridBuilder2D</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b9966897c0a5745a58180caacf18d380</guid>
+    <fileName>Assets/UnityLab/Scripts/Grid/GridCollision2D.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8604542+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.GridCollision2D</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e2de9961455094e0b90a103d035091bd</guid>
+    <fileName>Assets/UnityLab/Scripts/Grid/GridMove2D.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8604542+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.GridMove2D</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0f577f64e1ba24990b4ab494cae6afaf</guid>
+    <fileName>Assets/UnityLab/Scripts/Interaction/Collectible.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8604542+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.Collectible</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>aa9470e4ac4bb4e4282948688a3d52a3</guid>
+    <fileName>Assets/UnityLab/Scripts/Interaction/Crosshair2D.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8606477+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.Crosshair2D</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8127d94b44a8b46b787ad87f92acd79f</guid>
+    <fileName>Assets/UnityLab/Scripts/Interaction/InteractableTarget.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8606477+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.InteractableTarget</string>
+      <string>UnityLab.Components.InteractableTarget+InteractionResult</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1f3fe2c9699fd4599aab1626e758ec3f</guid>
+    <fileName>Assets/UnityLab/Scripts/Movement/AutoBounce2D.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8606477+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.AutoBounce2D</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>885a00eb13f7d4581bd297e0816b8716</guid>
+    <fileName>Assets/UnityLab/Scripts/Movement/CameraFollow2D.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8608571+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.CameraFollow2D</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b5a765f72ff94408bad326271a382c83</guid>
+    <fileName>Assets/UnityLab/Scripts/Movement/DestroyOutsideCamera2D.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8608571+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.DestroyOutsideCamera2D</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4ee076fbdec964ba2976959f2af09f86</guid>
+    <fileName>Assets/UnityLab/Scripts/Movement/DragLaunch2D.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8608571+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.DragLaunch2D</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fda5aa77f3b604f5db4182dcb43e435a</guid>
+    <fileName>Assets/UnityLab/Scripts/Movement/FaceMovementDirection2D.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8608571+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.FaceMovementDirection2D</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5be61570e34154e13a05ce6ba406afbd</guid>
+    <fileName>Assets/UnityLab/Scripts/Movement/Flap2D.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8608571+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.Flap2D</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>df4e17cfbe5f2492288e74b97523da08</guid>
+    <fileName>Assets/UnityLab/Scripts/Movement/HorizontalMove2D.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8608571+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.HorizontalMove2D</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a1164ec449c5349a1b020b946ab0e95f</guid>
+    <fileName>Assets/UnityLab/Scripts/Movement/Jump2D.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8608571+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.Jump2D</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e2691d93b839843519944661f9a510be</guid>
+    <fileName>Assets/UnityLab/Scripts/Movement/MoveTowardsTarget2D.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8608571+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.MoveTowardsTarget2D</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d9b435fe20d9c42d69d1e5c35b70eb37</guid>
+    <fileName>Assets/UnityLab/Scripts/Movement/RigidbodyAutoMove2D.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8608571+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.RigidbodyAutoMove2D</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2b12ddc7315da4124b1f78f861c14682</guid>
+    <fileName>Assets/UnityLab/Scripts/Movement/RotateAndThrust2D.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8608571+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.RotateAndThrust2D</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0e979db760997434193401b5c81a0a83</guid>
+    <fileName>Assets/UnityLab/Scripts/Movement/TransformAutoMove2D.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8608571+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.TransformAutoMove2D</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7671e67e2303c4ea88f678a007f3ff6f</guid>
+    <fileName>Assets/UnityLab/Scripts/Movement/VerticalMove2D.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8608571+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.VerticalMove2D</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6e014ec184aed4c33aa3539ef7eba533</guid>
+    <fileName>Assets/UnityLab/Scripts/Movement/WaypointMover2D.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8608571+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.WaypointMover2D</string>
+      <string>UnityLab.Components.WaypointMover2D+MovementMode</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f95e65bf01dfc41d28802b0456ccb143</guid>
+    <fileName>Assets/UnityLab/Scripts/Spawning/AreaSpawner2D.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8608571+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.AreaSpawner2D</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e8089fc4765a044b0a0ed4bb63a2108f</guid>
+    <fileName>Assets/UnityLab/Scripts/Spawning/PointsSpawner2D.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.861694+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.PointsSpawner2D</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b3cc80c57a3e94ef49f37ad5fdc76482</guid>
+    <fileName>Assets/UnityLab/Scripts/Spawning/RandomActivator.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.861694+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.RandomActivator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e7b13a63cfc91428e8778d77c70a6a56</guid>
+    <fileName>Assets/UnityLab/Scripts/Specialized/BallStarter2D.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.861694+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.BallStarter2D</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1938250c7f2db40d58edf7d6ceb35e16</guid>
+    <fileName>Assets/UnityLab/Scripts/Specialized/BombSliceTarget.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8618638+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.BombSliceTarget</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>18b669490eb984d1ab672e78fc09ea3a</guid>
+    <fileName>Assets/UnityLab/Scripts/Specialized/FruitSliceTarget.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8618638+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.FruitSliceTarget</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ab715dcfef9bd42ea8a651f773692d04</guid>
+    <fileName>Assets/UnityLab/Scripts/Specialized/LadderMovement2D.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8618638+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.LadderMovement2D</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bbc09fc619e9b441db02a9d42b1c6f28</guid>
+    <fileName>Assets/UnityLab/Scripts/Specialized/SwipeCutter2D.cs</fileName>
+    <timeStamp>2026-09-18T11:49:45.8618638+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityLab.Components.SwipeCutter2D</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2534c9c5f1c7abc46893edf3791a98cd</guid>
+    <fileName>Assets/Cainos/Common/Script/Utils/SecondOrderDynamics.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.1150544+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.Common.SecondOrderDynamics</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>40a6ca1c7e69cdc43aa3530067d930e5</guid>
+    <fileName>Assets/Cainos/Pixel Art Platformer - Village Props/Script/Editor/ChestEditor.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.2314764+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.PixelArtPlatformer_VillageProps.ChestEditor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f6254e17ada0781438d398a8bcda55f3</guid>
+    <fileName>Assets/Cainos/Pixel Art Platformer - Village Props/Script/Editor/ElevatorEditor.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.2318461+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.PixelArtPlatformer_VillageProps.ElevatorEditor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7804f7f08ea1e435f83285a1bbfd9307</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/EditorColors.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3663941+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.EditorColors</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>35da294de93e241ddad74d97647c0672</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/EditorIcons.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3670076+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.EditorIcons</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f1c419d127e634bb7807d7e507a43a0b</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/LucidEditor.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3709881+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.LucidEditor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>de69ea548194a40c19a7abcbfbaa2bd3</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/LucidEditorGUI.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3713556+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.LucidEditorGUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0dcb07f0fee5c40559cc8236d5e6e3c7</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/LucidEditorGUILayout.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3717944+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.LucidEditorGUILayout</string>
+      <string>Cainos.LucidEditor.LucidEditorGUILayout+BoxGroupScope</string>
+      <string>Cainos.LucidEditor.LucidEditorGUILayout+FoldoutGroupScope</string>
+      <string>Cainos.LucidEditor.LucidEditorGUILayout+TabGroupScope</string>
+      <string>Cainos.LucidEditor.LucidEditorGUILayout+ToggleFoldoutGroupScope</string>
+      <string>Cainos.LucidEditor.LucidEditorGUILayout+ToggleGroupScope</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>440549d8b0a5a4e4ca2a56d26b539708</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/LucidEditorPrefs.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3722184+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.LucidEditorPrefs</string>
+      <string>Cainos.LucidEditor.GlobalPersistentData`1</string>
+      <string>Cainos.LucidEditor.LocalPersistentData`1</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8befbc51965de48b687f7c67888ba902</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/LucidEditorUtility.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3726251+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.LucidEditorUtility</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4eeb1ca2f96dc4b5eafd655ef421493a</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/LucidGUIEvent.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3730343+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.LucidGUIEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>daf9f004d7a2c4709b68f27b7f6f231d</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/PropertyGroupProcessor.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3734398+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.PropertyGroupProcessor</string>
+      <string>Cainos.LucidEditor.CustomGroupProcessorAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>061615b3be8c1451989253905362b0a1</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/PropertyProcessor.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3741131+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.PropertyProcessor</string>
+      <string>Cainos.LucidEditor.CustomAttributeProcessorAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f22e9c83330894a79a03fa7342c23c14</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/SerializeReferenceDropdown.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3749694+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.SerializeReferenceDropdownItem</string>
+      <string>Cainos.LucidEditor.SerializeReferenceDropdown</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>077275b0319ec3c40811ead35de88b65</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/SerializedPropertyUtility.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3745261+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.SerializedPropertyUtility</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>79f719a60f0084736a0f921bbba77274</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Runtime/Enum.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.393274+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.InspectorButtonSize</string>
+      <string>Cainos.LucidEditor.InspectorColor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7b392fbe0b30f41f5a72d7f6d4eb3164</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Runtime/PropertyGroupAttribute.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.393644+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.PropertyGroupAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fd9e1c6dc2e2a6f41993a36ad5dad550</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/AssetsOnlyAttributeProcessor.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3528564+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.AssetsOnlyAttributeProcessor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0ed2d80f5f80a459faf430e73df69e01</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/BlockquoteAttributeProcessor.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3533341+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.BlockquoteAttributeProcessor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>aa8e0443ca95e4acb8ff72f33ad827a7</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/BoxGroupAttributeProcessor.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3538083+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.BoxGroupAttributeProcessor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>46b525001269a42df899b926cd739bd5</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/DisableIfAttributeProcessor.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3542782+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.DisableIfAttributeProcessor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fa2ac94d8dc9d4c0fa7e5289272fd97b</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/DisableInEditModeAttributeProcessor.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3547556+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.DisableInEditModeAttributeProcessor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3a24d5c4bf91846fab0bb55cd9ccf693</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/DisableInPlayModeAttributeProcessor.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3552046+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.DisableInPlayModeAttributeProcessor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>87c012206409c4a19846bf9f9785a777</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/EnableIfAttributeProcessor.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3556501+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.EnableIfAttributeProcessor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>82b7d9f997ddd4538b703ba85fc2ad57</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/FoldoutGroupAttributeProcessor.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3561164+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.FoldoutGroupAttributeProcessor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e0a6e890fd919487c9db767e6da2b42b</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/GUIColorAttributeProcessor.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3570451+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.GUIColorAttributeProcessor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>881f22c00ad84426d9c0ac07a3a097e1</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/GroupAttributeProcessor.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3564423+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.GroupAttributeProcessor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cd2f68c11fb2d4dfe9dcbbf14f1bcbcd</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/HelpBoxAttributeProcessor.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3575122+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.HelpBoxAttributeProcessor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7d6392ca7b5094ba0b13c8e20d83ccd4</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/HelpBoxIfAttributeProcessor.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.358118+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.HelpBoxIfAttributeProcessor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>869bf746267a8451984148ee2382bcee</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/HideIfAttributeProcessor.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3586+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.HideIfAttributeProcessor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a318ee3a513dc4de3aa50762a65136cb</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/HideLabelAttributeProcessor.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3590586+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.HideLabelAttributeProcessor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ba7ac005c37994f3080a24e976c6f223</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/HorizontalGroupAttributeProcessor.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3595159+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.HorizontalGroupAttributeProcessor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ae9d18acdc457450ea42f886ab9a9158</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/HorizontalLineAttributeProcessor.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3599825+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.HorizontalLineAttributeProcessor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c5248ff57c43c4e6fa6108ce82ad2181</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/IndentAttributeProcessor.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.360447+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.IndentAttributeProcessor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e1de31754c47e417482f0a6c1785ff2a</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/LabelTextAttributeProcessor.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3609037+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.LabelTextAttributeProcessor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fa081df837cda49f39fffedcc6eb4eb8</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/LabelWidthAttributeProcessor.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3613788+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.LabelWidthAttributeProcessor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3d257440bc9b64dc9a8e3c0ec7ecab97</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/OnValueChangedAttributeProcessor.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3618763+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.OnValueChangedAttributeProcessor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>66e1690dd88604788ba6880d96dedf78</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/PropertyOrderAttributeProcessor.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3623314+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.PropertyOrderAttributeProcessor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c93f8adb1ea444432a967b800380c5ad</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/ReadOnlyAttributeProcessor.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3630162+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.ReadOnlyAttributeProcessor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9a9f019eeb7b7447c869ced7a62600ec</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/RequiredAttributeProcessor.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3636276+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.RequiredAttributeProcessor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a5b42575366d54c149b27a0c47737719</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/SectionHeaderAttributeProcessor.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3640925+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.SectionHeaderAttributeProcessor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>49b75efbae43a4c3abd9941511dd16f3</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/ShowIfAttributeProcessor.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3645376+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.ShowIfAttributeProcessor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d45600b0c539d4c6fa756bdd48e5d574</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/TabGroupAttributeProcessor.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3649621+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.TabGroupAttributeProcessor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4bf9692430a8b4778bf1d8710eed95f4</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/TitleHeaderAttributeProcessor.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3653809+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.TitleHeaderAttributeProcessor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ab179775f6cfb40d7bcc4874fffa5412</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/Attributes/ValidateInputAttributeProcessor.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3658973+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.ValidateInputAttributeProcessor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1d1c97af8bccf49119723b6c0b99dd96</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/Extensions/EnumExtensions.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3675711+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.InspectorColorExtensions</string>
+      <string>Cainos.LucidEditor.InspectorButtonSizeExtensions</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f5e8e6d54dc4c477cb5b6a472790e6bf</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/Extensions/SerializedPropertyExtensions.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3679788+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.SerializedPropertyExtensions</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f7ac5aa63dd4d054fb62f161ede208e1</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/InspectorProperty/EditableInspectorProperty.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3685669+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.EditableInspectorProperty</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>caf111390d23e46798c4df039cd07324</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/InspectorProperty/InspectorButton.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3689703+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.InspectorButton</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>06a7a89a9129b4e8ab0bdbe1e1414425</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/InspectorProperty/InspectorField.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3693846+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.InspectorField</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ffcdb64de16564251aeda3d6c3fd9861</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/InspectorProperty/InspectorProperty.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3697923+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.InspectorProperty</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>36f0a0863c5ba44e7a958fb7d3dc4d38</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/InspectorProperty/InspectorPropertyGroup.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3702002+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.InspectorPropertyGroup</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e227a45d92ce24f0aa63caee7e660d78</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/InspectorProperty/NonSerializedProperty.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.370613+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.NonSerializedInspectorProperty</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cb96b6984d4004d9c855f20b38e1b75c</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/Utils/InspectorPropertyUtil.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3756045+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.InspectorPropertyUtil</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>739804b6bf10a4611bfb1a74b476cb8f</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/Utils/ProcessorUtil.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3760763+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.ProcessorUtil</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fb81ea54915e94ee3b2089488dc6106d</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/Utils/ReflectionUtil.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3764822+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.ReflectionUtil</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>995cb61483290490a88699758f50592e</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Editor/Utils/TypeUtil.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3769084+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.TypeUtil</string>
+      <string>Cainos.LucidEditor.GenericTypeConverter`1</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f37a4be6f7becc748add81ca7f5c826e</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/AssetsOnlyAttribute.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3780147+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.AssetsOnlyAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>47b0239bff3ab402ba57bb4e0fb79b8e</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/BlockquoteAttribute.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.378499+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.BlockquoteAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f3a7b70a9819341948c6c1f617307359</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/BoxGroupAttribute.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3790345+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.BoxGroupAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3450506bfd5c940439d2a7f9f1878f92</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/ButtonAttribute.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3794837+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.ButtonAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d8a22becf99e144d68d0660df7d5b557</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/DisableIfAttribute.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3799088+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.DisableIfAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>04a456283dded4db2ad580307f041cc8</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/DisableInEditModeAttribute.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3804012+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.DisableInEditModeAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>475bcff7d1f7d4f87921f9b22ac3e26d</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/DisableInPlayModeAttribute.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3808783+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.DisableInPlayModeAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d750cca32720e4c5daeb51e4a43730a0</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/DisableLucidEditorAttribute.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3813863+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.DisableLucidEditorAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f7af4c5a709594cd3be2c25e1c6d45f8</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/EnableIfAttribute.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3818682+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.EnableIfAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fe1f3a8dfb58c449090899088d5112a5</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/FoldoutGroupAttribute.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3823452+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.FoldoutGroupAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6f1c19d7edf314e8bbf3f7ce9acc4fc1</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/GUIColorAttribute.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3834009+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.GUIColorAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3331e9a3d865945aea2ec1a366214d51</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/GroupAttribute.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3829334+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.GroupAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e0c030ea97c614276b4dc9e458a48dad</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/HelpBoxAttribute.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3839082+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.HelpBoxAttribute</string>
+      <string>Cainos.LucidEditor.HelpBoxMessageType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c0f4e5582478f44ec975f0308daad725</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/HelpBoxIfAttribute.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3843736+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.HelpBoxIfAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>00a6385f3e58a408e85760e29c92acda</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/HideIfAttribute.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3849601+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.HideIfAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9353b35b5ab054e478c9bc3432abc215</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/HideLabelAttribute.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3855293+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.HideLabelAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0747ac6687fef43fcbb38ec9e9c8d06c</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/HideMonoScript.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3860297+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.HideMonoScriptAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>987a7c71bec394997b54689b1823597a</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/HorizontalGroupAttribute.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3865165+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.HorizontalGroupAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>875c2c64a20374cd08ac4eebb6c290d7</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/HorizontalLineAttribute.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3871279+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.HorizontalLineAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>baf2c55e67a17434caa539147998b3eb</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/IndentAttribute.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3876292+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.IndentAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8d22bd82ea1fe413d924d171177e9dcd</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/LabelTextAttribute.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3881002+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.LabelTextAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7430b1710086a44739b7aadb5ec311dd</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/LabelWidthAttribute.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3884419+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.LabelWidthAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1a23e0219082d4783867105c8a74b1d7</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/OnValueChangedAttribute.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3890319+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.OnValueChangedAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8f0fd23beeb634893949d37e316f8f17</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/PropertyOrderAttribute.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3894958+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.PropertyOrderAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>006b91e11152941e0a04e6f916453b63</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/ReadOnlyAttribute.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3899574+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.ReadOnlyAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>df1019c58e921426185de0ea66fb0bae</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/RequiredAttribute.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3903728+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.RequiredAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f30c7a1e0a0b64733866abf0e57a0fde</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/SectionHeaderAttribute.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3908006+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.SectionHeaderAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>feeefb731cdeb4976b8c98e1a0cbf45e</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/ShowIfAttribute.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3912125+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.ShowIfAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ec165e79e1de34fc1bbe7483fde76337</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/ShowInInspectorAttribute.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3916303+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.ShowInInspectorAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bd24e90d1e8cd4890817d3b694309716</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/TabGroupAttribute.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.392043+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.TabGroupAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fd34a6e485a3e4d94829cbf9b5774d6d</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/TitleHeaderAttribute.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3924519+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.TitleHeaderAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>63c421ef8437043589a631c5b71eb4fb</guid>
+    <fileName>Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/ValidateInputAttribute.cs</fileName>
+    <timeStamp>2026-09-18T13:44:09.3928713+03:00</timeStamp>
+    <typeFullName>
+      <string>Cainos.LucidEditor.ValidateInputAttribute</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+</ArrayOfTypeDate>
